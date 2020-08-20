@@ -18,3 +18,5 @@ output:
     theme: flatly
     toc: yes
     toc_float: yes
+    include:
+      after_body: footer.html
