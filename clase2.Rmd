@@ -1,0 +1,16 @@
+---
+title: "Clase 2"
+output: html_document
+---
+Hola!
+Les dejo las diapositivas de la clase, [acá](https://ajlcclase2.netlify.app/)
+
+Y acá está el video de la clase 2, para descargar [acá](https://drive.google.com/file/d/1nN_qjsI_kSAoACfEtu7baHZWi18oCkgl/view?usp=sharing) o para ver online abajo
+
+<iframe src="https://drive.google.com/file/d/1nN_qjsI_kSAoACfEtu7baHZWi18oCkgl/preview" width="640" height="500"></iframe>
+
+Las reglas de Brasilia las adoptó la Corte Suprema por Acordada 5/2009, disponible [aquí](https://www.csjn.gov.ar/documentos/descargar/?ID=30455), y la Defensoría General de la Nación dictó una instrucción general para invocarlas, [acá](https://www.mpd.gov.ar/pdf/resoluciones_reglamentarias/1%20Res%20DGN%20invocar%20Reglas%20de%20Brasilia.pdf)
+
+### Nos vemos el jueves con el texto de Gallanter y la OC 11/90 de la Corte IDH!
+
+saludos
