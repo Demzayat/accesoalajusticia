@@ -70,12 +70,12 @@ Patrocinio letrado. Requerir un patrocinio letrado puede ser difícil en muchos 
 
 - CorteIDH, OC 11/90 "Excepciones al agotamiento de los recursos internos", disponible [aca](https://www.corteidh.or.cr/docs/opiniones/seriea_11_esp.pdf)
 
-### `r advdate(lunes, 3)`. Unidad 2. Continuación
+### `r advdate(lunes, 3)`. Unidad 3. La Agenda estructural
 
 - Piqué, María, "Los derechos de las víctimas de delitos en nuestra Constitución", disponible [aca](https://drive.google.com/file/d/1NaUqgIjcAosZx6OCPuJzcdG3sbKrqfaC/view?usp=sharing)
 
-- CELS, "El acceso a la justicia como una cuestión de derechos humanos", en Informe Anual 2016, [acá](https://www.cels.org.ar/web/wp-content/uploads/2016/12/IA2016-09-acceso-a-la-justicia.pdf El acceso a la justicia como una cuestión
-de derechos humanos)
+- CELS, "El acceso a la justicia como una cuestión de derechos humanos", en Informe Anual 2016, [acá](https://drive.google.com/file/d/1qH6DsnHctmesy6nje2f5NgCyowQ0PkyM/view?usp=sharing) El acceso a la justicia como una cuestión
+de derechos humanos
 
 ### `r advdate(jueves, 3)`. Unidad 3. La práctica
 
