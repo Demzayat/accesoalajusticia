@@ -1,0 +1,13 @@
+---
+title: "clase4"
+output: html_document
+---
+Hola!
+
+Acá les dejo las [diapositivas](https://ajlcclase4.netlify.app/) de hoy.
+
+Y acá el [video](https://drive.google.com/file/d/1N58Gebd_IxhxwaG6R2VlQ9Ixb3XaB15I/view?usp=sharing)
+
+<iframe src="https://drive.google.com/file/d/1N58Gebd_IxhxwaG6R2VlQ9Ixb3XaB15I/preview" width="700" height="500"></iframe>
+
+## Nos vemos el jueves con el texto de usurpaciones! 
