@@ -1,0 +1,15 @@
+---
+title: "Clase 5"
+output: html_document
+---
+Hola!
+
+Acá les dejo las [diapositivas](https://ajlcclase5.netlify.app/) de hoy.
+
+
+Y acá el [video](https://drive.google.com/file/d/1fsW50uWyQMpgwet1WEoaUi_TqqPkXPsl/view?usp=sharing)
+
+<iframe src="https://drive.google.com/file/d/1fsW50uWyQMpgwet1WEoaUi_TqqPkXPsl/preview" width="700" height="500"></iframe>
+
+## Nos vemos el jueves con el caso de Vanesa Gómez, y el texto de migrantes
+Prometo que va a ser el último paper mio!! 

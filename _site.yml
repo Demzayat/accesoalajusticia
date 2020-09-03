@@ -23,6 +23,8 @@ navbar:
       menu:
         - text: Clase 4
           href: clase4.html
+        - text: Clase 5
+          href: clase5.html
 output:
   html_document:
     theme: flatly
