@@ -21,12 +21,14 @@ navbar:
           href: clase3.html
     - text: Unidad 3
       menu:
-        - text: Clase 4
+        - text: Clase 4 Víctimas
           href: clase4.html
-        - text: Clase 5
+        - text: Clase 5 Usurpaciones
           href: clase5.html
-        - text: Clase 6
+        - text: Clase 6 Migrantes
           href: clase6.html
+        - text: Clase 7 Discapacidad
+          href: clase7.html
           
 output:
   html_document:
