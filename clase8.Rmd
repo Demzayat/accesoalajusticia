@@ -1,0 +1,21 @@
+---
+title: "Clase 8"
+output: html_document
+---
+Hola!
+
+Aca esta el fallo que comentó Sebastian de la Corte Interamericana sobre personas LGBT, que es del 12 de marzo de este año [fallo](https://www.corteidh.or.cr/docs/casos/articulos/seriec_402_esp.pdf) y [resumen](https://www.corteidh.or.cr/docs/casos/articulos/resumen_402_esp.pdf), que está muy bien.
+
+
+Les dejo las [diapositivas](https://ajlcclase8.netlify.app/#1) de la clase.
+
+Aca el [video](https://drive.google.com/file/d/1gMdjkMrnFwGYut5I74xIUO2xENjW5B1Q/view?usp=sharing) y abajo para verlo directamente aqui.
+
+<iframe src="https://drive.google.com/file/d/1gMdjkMrnFwGYut5I74xIUO2xENjW5B1Q/preview" width="700" height="500"></iframe>
+
+Algunos cambios para el jueves. Del documento de INECIP vemos la introducción y las primeras dos fichas (pág 1 a 22), y en lugar del documento de la CIDH que es muy largo, vemos la Observación General 33 de la CEDAW. 
+
+## Para el jueves vemos el documento de INECIP y la OG 33 de la CEDAW
+
+Espero poder mejorar la cuestión tecnica para el jueves
+
