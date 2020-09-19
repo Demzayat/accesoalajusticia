@@ -1,0 +1,14 @@
+---
+title: "Clase 9"
+output: html_document
+---
+Hola!
+
+
+Aca va el [video](https://drive.google.com/file/d/1xH7IittVyo8AI8-OyA57EoJ0UapfkEwl/view?usp=sharing) de la clase pasada
+
+<iframe src="https://drive.google.com/file/d/1xH7IittVyo8AI8-OyA57EoJ0UapfkEwl/preview" width="700" height="500"></iframe>
+
+## Nos vemos el jueves con Africanos y Afrodescendientes
+
+Disfruten el día del estudiante! El jueves fue el día de les profesores!! 
