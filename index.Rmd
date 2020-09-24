@@ -126,8 +126,11 @@ e. Africanos y afrodescendientes
 
 - Angela Davis, "Raza, Mujeres y clase",  Violación, racismo y el mito del violador negro, [capítulo 11](https://drive.google.com/file/d/1ghSHi12WUBBQlkcBQYiA5--Z_rGMnndc/view?usp=sharing) (o aca el [libro entero](https://drive.google.com/file/d/1dKW89DDQlKGgsKIE74Mi7i6pnmdTvDxn/view?usp=sharing))
 
+- Grupo de Trabajo sobre Afrodescendientes, visita a [Argentina](http://daccess-ods.un.org/access.nsf/Get?Open&DS=A/HRC/42/59/Add.2&Lang=S)
+
 ### `r advdate(lunes, 7)` - No hay clases.
-¨
+
+
 ### `r advdate(jueves, 7)`. Unidad 3. La práctica
 
 f. Pueblos originarios
