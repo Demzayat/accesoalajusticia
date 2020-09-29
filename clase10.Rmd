@@ -1,0 +1,14 @@
+---
+title: "Clase 10"
+output: html_document
+---
+Hola!
+
+Les dejo el link a la exposición de [Rita Segato](https://youtu.be/prUqWHKnUd4) 
+
+Aca va el [video](https://drive.google.com/file/d/1DewvXTtyxy04_mdnTpAOtTtc_WuMImas/view?usp=sharing) de la clase pasada
+
+<iframe src="https://drive.google.com/file/d/1DewvXTtyxy04_mdnTpAOtTtc_WuMImas/preview" width="700" height="500"></iframe>
+
+## Nos vemos el jueves con Pueblos originarios
+
