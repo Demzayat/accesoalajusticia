@@ -34,7 +34,9 @@ navbar:
         - text: Clase 9 Mujeres
           href: clase9.html
         - text: Clase 10 Afro 
-          href: clase10.html 
+          href: clase10.html
+        - text: Clase 11 Indígenas
+          href: clase11.html
 output:
   html_document:
     theme: flatly
