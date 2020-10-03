@@ -140,8 +140,15 @@ f. Pueblos originarios
 
 ### `r advdate(lunes, 8)`. Unidad 4. Garantias
 
-- Halabi, Padec
+Estándares de la Corte Suprema para facilitar el acceso a la justicia: _Persepectiva clásica_
+
+-CSJN [Halabi](https://drive.google.com/file/d/1EcDi8VnbuUNH7DlaRPhTMit0IGLLGn0d/view?usp=sharing)
+
+-CSJN [Padec](https://drive.google.com/file/d/186eN_fSToqx4d_W2fRI2pckZA3a5CWCH/view?usp=sharing)
 
 ### `r advdate(jueves, 8)`. Unidad 4. Garantias
+Estándares de la Corte Suprema para facilitar el acceso a la justicia: _Persepectiva estructural_
 
-- habeas corpus
+-CAF, Sala V [DNU Migrantes](https://drive.google.com/file/d/1y2HFqD7WvBZR0AKB1sYAlSxbZMny2Cez/view?usp=sharing)
+
+-CSJN, [Quisbert Castro](https://drive.google.com/file/d/1IIU_OrTzoAvqpydcx0Xi40ci0B__DQOG/view?usp=sharing)
