@@ -1,0 +1,10 @@
+---
+title: "Clase 12"
+output: html_document
+---
+
+Hola! Les dejo el video de la clase
+
+<iframe src="https://drive.google.com/file/d/1dK-dldZQSaTknTN-u1hj9BDH5mDAH1jU/preview" width="700" height="500"></iframe>
+
+## Nos vemos el jueves, última clase con casos de acceso a la justicia estructurales
