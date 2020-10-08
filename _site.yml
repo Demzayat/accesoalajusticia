@@ -4,7 +4,7 @@ description: |
   Acceso a la Justicia y Litigio Constitucional
 output_dir: "docs"
 navbar:
-  title: Comisión 0511
+  title: Comisión 0511 - 2020
   left:
     - text: Home
       href: index.html
@@ -40,12 +40,15 @@ navbar:
     - text: Unidad 4
       menu:
         - text: Clase 12 Halabi
-          href: clase12.html 
+          href: clase12.html
+        - text: Clase 13 DNU Migrantes
+          href: clase13.html 
 output:
   html_document:
     theme: flatly
     toc: yes
     toc_float: yes
+    toc_depth: 3
     include:
       after_body: footer.html
     css: styles.css

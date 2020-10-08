@@ -1,0 +1,14 @@
+---
+title: "Clase 13"
+output: html_document
+---
+
+
+Hola! Les dejo el [video](https://drive.google.com/file/d/1nUUBE3-YwTJZ2m4O4b4pSm1CUEsVdoYq/view?usp=sharing) de la clase de hoy que fue la última
+
+
+<iframe src="https://drive.google.com/file/d/1nUUBE3-YwTJZ2m4O4b4pSm1CUEsVdoYq/preview" width="700" height="500"></iframe>
+
+Mañana viernes les estoy mandando por email el examen, que me deberán devolver por la misma vía hasta el martes 13/10 a las 24 hs (todo el martes).
+
+Un gusto haber compartido el curso con ustedes, creo que aprendimos mucho todes. Estamos en contacto, por supuesto, para cualquier consulta o comentario!
