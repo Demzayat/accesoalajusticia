@@ -8,41 +8,41 @@ navbar:
   left:
     - text: Home
       href: index.html
-  right:
-    - text: Unidad 1
-      menu:
-      - text: Clase 1
-        href: clase1.html
-      - text: Clase 2
-        href: clase2.html
-    - text: Unidad 2
-      menu:
-        - text: Clase 3
-          href: clase3.html
-    - text: Unidad 3
-      menu:
-        - text: Clase 4 Víctimas
-          href: clase4.html
-        - text: Clase 5 Usurpaciones
-          href: clase5.html
-        - text: Clase 6 Migrantes
-          href: clase6.html
-        - text: Clase 7 Discapacidad
-          href: clase7.html
-        - text: Clase 8 LGBTQI
-          href: clase8.html
-        - text: Clase 9 Mujeres
-          href: clase9.html
-        - text: Clase 10 Afro 
-          href: clase10.html
-        - text: Clase 11 Indígenas
-          href: clase11.html
-    - text: Unidad 4
-      menu:
-        - text: Clase 12 Halabi
-          href: clase12.html
-        - text: Clase 13 DNU Migrantes
-          href: clase13.html 
+  # right:
+  #   - text: Unidad 1
+  #     menu:
+  #     - text: Clase 1
+  #       href: clase1.html
+  #     - text: Clase 2
+  #       href: clase2.html
+  #   - text: Unidad 2
+  #     menu:
+  #       - text: Clase 3
+  #         href: clase3.html
+  #   - text: Unidad 3
+  #     menu:
+  #       - text: Clase 4 Víctimas
+  #         href: clase4.html
+  #       - text: Clase 5 Usurpaciones
+  #         href: clase5.html
+  #       - text: Clase 6 Migrantes
+  #         href: clase6.html
+  #       - text: Clase 7 Discapacidad
+  #         href: clase7.html
+  #       - text: Clase 8 LGBTQI
+  #         href: clase8.html
+  #       - text: Clase 9 Mujeres
+  #         href: clase9.html
+  #       - text: Clase 10 Afro 
+  #         href: clase10.html
+  #       - text: Clase 11 Indígenas
+  #         href: clase11.html
+  #   - text: Unidad 4
+  #     menu:
+  #       - text: Clase 12 Halabi
+  #         href: clase12.html
+  #       - text: Clase 13 DNU Migrantes
+  #         href: clase13.html 
 output:
   html_document:
     theme: flatly

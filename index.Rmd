@@ -8,8 +8,8 @@ description: |
 ---
 ```{r, include=FALSE}
 library(readr)
-lunes <- as.Date ("2020-08-17")
-jueves <- as.Date("2020-08-20")
+martes <- as.Date ("2021-08-10")
+viernes <- as.Date("2021-08-13")
 advdate <- function(obj, adv) {
   Sys.setlocale("LC_TIME", "es_ES")
   tmon <- obj + 7*(adv-1)
@@ -53,14 +53,15 @@ Habrá un único examen, domiciliario, al final de la cursada.
 
 ## Cronograma y bibliografía
 
+### `r advdate(martes, 1)`. Unidad 1. Presentación
 
-### `r advdate(jueves, 1)`. Unidad 1. Presentación
+### `r advdate(viernes, 1)`. Unidad 1. Presentación
 
 Presentación de los objetivos y metodología del curso. Introducción al derecho de acceso a la justicia. Dimensión instrumental y dimensión sustantiva del derecho. Movimiento de Acceso a la Justicia. Reconocimiento constitucional. 
 
 - Maurino, Gustavo y Sucunza Matías, "Acceso a la Justicia", en Gargarella- Guidi _Comentarios de la Constitución de la Nación Argentina_, tomo 2, pp 895-929, puntos 1 y 2, [aca](https://drive.google.com/file/d/1Gj7BF0AtPkcnPp7YI7-M2oU-olQHS_I9/view?usp=sharing)
 
-### `r advdate(lunes, 2)`. Unidad 1. Estándares internacionales
+### `r advdate(martes, 2)`. Unidad 1. Estándares internacionales
 
 Estandares Internacionales sobre acceso a la Justicia
 
@@ -68,7 +69,7 @@ Estandares Internacionales sobre acceso a la Justicia
 
 - Reglas de Brasilia sobre Acceso a la Justicia de las Personas con vulnerabilidad con la actualización de 2018, [en este link](http://www.cumbrejudicial.org/comision-de-seguimiento-de-las-reglas-de-brasilia/documentos-comision-de-seguimiento-de-las-reglas-de-brasilia/item/817-cien-reglas-de-brasilia-actualizadas-version-abril-2018-xix-cumbre-judicial-asamblea-plenaria-san-francisco-de-quito)
 
-### `r advdate(jueves, 2)`. Unidad 2. Concepto clásico y estructural
+### `r advdate(viernes, 2)`. Unidad 2. Concepto clásico y estructural
 
 Patrocinio letrado. Requerir un patrocinio letrado puede ser difícil en muchos casos. ¿Es una garantía útil? Ahora, son todes les abogades iguales? Por qué tener dinero es relevante para el sistema judicial? Concepciones clásica y estructural del acceso a la justicia.
 
@@ -76,14 +77,14 @@ Patrocinio letrado. Requerir un patrocinio letrado puede ser difícil en muchos 
 
 - CorteIDH, OC 11/90 "Excepciones al agotamiento de los recursos internos", disponible [aca](https://www.corteidh.or.cr/docs/opiniones/seriea_11_esp.pdf)
 
-### `r advdate(lunes, 3)`. Unidad 3. La Agenda estructural
+### `r advdate(martes, 3)`. Unidad 3. La Agenda estructural
 
 - Piqué, María, "Los derechos de las víctimas de delitos en nuestra Constitución", disponible [aca](https://drive.google.com/file/d/1NaUqgIjcAosZx6OCPuJzcdG3sbKrqfaC/view?usp=sharing)
 
 - CELS, "El acceso a la justicia como una cuestión de derechos humanos", en Informe Anual 2016, [acá](https://drive.google.com/file/d/1qH6DsnHctmesy6nje2f5NgCyowQ0PkyM/view?usp=sharing) El acceso a la justicia como una cuestión
 de derechos humanos
 
-### `r advdate(jueves, 3)`. Unidad 3. La práctica
+### `r advdate(viernes, 3)`. Unidad 3. La práctica
 
 En esta unidad comenzaremos a ver cómo son afectados algunos grupos en particular.
 
@@ -91,7 +92,7 @@ a. Usurpaciones y derecho de defensa
 
 - Ricciardi y Zayat, _El derecho de defensa en los casos de usurpaciones en la Ciudad de Buenos Aires: un estudio empírico_, en Revista Institucional de la Defensa Pública de la CABA N° 1, disponible [acá](https://drive.google.com/file/d/1KeqFSqkZ2aBrHXkRcIaZCVu6AMSaX7zH/view?usp=sharing)
 
-### `r advdate(lunes, 4)`. Unidad 3. La práctica
+### `r advdate(martes, 4)`. Unidad 3. La práctica
 
 b. Migrantes
  Expulsiones. Caso Vanessa Gomez
@@ -99,7 +100,7 @@ b. Migrantes
   - Oteiza y Zayat, A treinta años de la CDN, [aca](https://drive.google.com/file/d/1rZbIfh3834THG1K07moFq1Cgp_zmYtsk/view?usp=sharing)
 
 
-### `r advdate(jueves, 4)`. Unidad 3. La práctica
+### `r advdate(viernes, 4)`. Unidad 3. La práctica
 
 b. Personas con discapacidad
 
@@ -108,7 +109,7 @@ b. Personas con discapacidad
 - CSJN, "R. M.J s/Insania", [aca](https://drive.google.com/file/d/1c29zw3cQDmwNGuO-GDR15KUq7Xc-UZJb/view?usp=sharing)
 
 
-### `r advdate(lunes, 5)`. Unidad 3. La práctica
+### `r advdate(martes, 5)`. Unidad 3. La práctica
 
 c. LGBT
 Trans
@@ -117,14 +118,14 @@ Trans
 
 Les dejo también el decreto del [cupo laboral trans](http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341808/norma.htm)
 
-### `r advdate(jueves, 5)`. Unidad 3. La práctica
+### `r advdate(viernes, 5)`. Unidad 3. La práctica
 
 d. Mujeres
 - Inecip, casos de violencia de género, [aca](https://inecip.org/publicaciones/herramientas-jurisprudenciales-para-el-litigio-con-perspectiva-de-genero/)
 
 - CEDAW, Observación General 33, disponible  [acá](https://drive.google.com/file/d/1j3suY4Q3JhS5EzbAvs6_K6XSbQsOQ7D7/view?usp=sharing)
 
-### `r advdate(jueves, 6)`. Unidad 3. La práctica
+### `r advdate(viernes, 6)`. Unidad 3. La práctica
 
 e. Africanos y afrodescendientes
 
@@ -134,17 +135,17 @@ e. Africanos y afrodescendientes
 
 - Grupo de Trabajo sobre Afrodescendientes, visita a [Argentina](http://daccess-ods.un.org/access.nsf/Get?Open&DS=A/HRC/42/59/Add.2&Lang=S)
 
-### `r advdate(lunes, 7)` - No hay clases.
+### `r advdate(martes, 7)` - No hay clases.
 
 
-### `r advdate(jueves, 7)`. Unidad 3. La práctica
+### `r advdate(viernes, 7)`. Unidad 3. La práctica
 
 f. Pueblos originarios
 - Comite DH, NFL, [aca](https://drive.google.com/file/d/1CP_TpEaI6XXZIb3ACuyqa8XFPuvbdR3f/view?usp=sharing)
 
 - Conversatorio INADI sobre Chineo, [acá](https://www.facebook.com/inadiok/videos/726439544842695/)
 
-### `r advdate(lunes, 8)`. Unidad 4. Litigio Constitucional
+### `r advdate(martes, 8)`. Unidad 4. Litigio Constitucional
 
 Estándares de la Corte Suprema para facilitar el acceso a la justicia: _Persepectiva clásica_
 
@@ -152,7 +153,7 @@ Estándares de la Corte Suprema para facilitar el acceso a la justicia: _Persepe
 
 -CSJN [Padec](https://drive.google.com/file/d/186eN_fSToqx4d_W2fRI2pckZA3a5CWCH/view?usp=sharing)
 
-### `r advdate(jueves, 8)`. Unidad 4. Litigio Constitucional
+### `r advdate(viernes, 8)`. Unidad 4. Litigio Constitucional
 Estándares de la Corte Suprema para facilitar el acceso a la justicia: _Persepectiva estructural_
 
 -CAF, Sala V [DNU Migrantes](https://drive.google.com/file/d/1y2HFqD7WvBZR0AKB1sYAlSxbZMny2Cez/view?usp=sharing)

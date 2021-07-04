@@ -1,0 +1,15 @@
+---
+title: "Clase 3"
+output: html_document
+---
+Hola!
+
+Acá están las [diapositivas](https://ajlcclase3.netlify.app) de la clase de hoy.
+
+Y acá el [video](https://drive.google.com/file/d/1Sje9fHFZ-7zgIc8xTf1vMg5NkP_IxYRH/view?usp=sharing)
+
+<iframe src="https://drive.google.com/file/d/1Sje9fHFZ-7zgIc8xTf1vMg5NkP_IxYRH/preview" width="640" height="500"></iframe>
+
+## Nos vemos el lunes con el texto de María Piqué y el del CELS! 
+
+Buen fin de semana!
